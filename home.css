@@ -1,0 +1,5 @@
+.area-busca {
+  @media (min-width: 992px) {
+    margin-bottom: -90px;
+  }
+}
